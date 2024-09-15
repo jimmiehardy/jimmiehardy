@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Jimmie, an <a href="https://www.linkedin.com/in/jimmie-hardy-614761309/">IT Professional</a>☺</h1>
 
-<!--
-**jimmiehardy/jimmiehardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/jimmiehardy/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/jimmiehardy/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jimmiehardy/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jimmiehardy/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jimmiehardy/azure-network-protocols)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[linkedin]: https://www.linkedin.com/in/jimmie-hardy-614761309/
